@@ -4,7 +4,7 @@
 	 xmlns:spring="http://www.springframework.org/tags"
 	 xmlns:fmt="http://java.sun.com/jsp/jstl/fmt" version="2.0">
 	 
-	<h1>Singer Listing</h1>
+	<h1>Singer Listing is Alive !</h1>
 	<c:if test="${not empty singers}">
 		<table>
 			<thead>
